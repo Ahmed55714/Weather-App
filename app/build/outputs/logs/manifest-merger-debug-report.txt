@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\dd737f1cfebb28cb291ab8bad2c1aae2\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e807e5b0707e0b889f240d287491c121\jetified-dexter-6.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\1d90cd8f4900107f057abb787f3d5130\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\a0df8aa46d15bef6d531d21ede0e97e2\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\1a64615e3aee6007444711718719d0cf\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\c0351a1d9034bf251cf033c0ee0c969a\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\622d845d2c4d4a2177eea5c64dfb4ad8\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6d8b2bae5849f16ef4cabde6b8ec9476\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6808cd6878c9414b0acc7fe15a672165\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e87f840931a6a9bebc0321c72fc441a7\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\bc13f0acd75a988cccadd5bbe939939f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\17de1d49271e5a3dbca270f3642625b4\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\3812e7a40e8f4baf632e5f61e2cfdb93\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\b64750d96a60914908b1220e2e80e730\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\8f9fb315de656c3318595e7f70e6a9f6\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e645a93e4ecc83c75e07d37522a5f797\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\55abb7e948258522d575f8dc4ee0df62\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\4f2ba545a4331b28b7adb2460751a1ff\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\9ab9beff53653ff1e9fe334b4d5f1395\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\7664f82643b3edd3b22586071f92de72\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\c66e627a02f725e6741f0c47d508a4f0\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\8a26777318ad3531fbb6dbfaf1355b47\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\3cbc7404a6cb10db2956366906999e11\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6c0044a99f91be826ffee75cdd447424\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\71d05889cd3319b59e0a4fc26ad09558\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\eaa4184ef95fb51bf07a251cf4549871\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\cacf7ff0fa88ad6204736ae1f1598ba0\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\760e4cbfa2910973dbbd12ef4c78c934\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\afd58b29fb02ca0ff9cd0ea34dcf65bf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\fe349577d488e7135f225a9eb8ce8774\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\29d820506409cfa38b75a3337969ce53\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\460fbb6ec86ae4ad508e850c617f8481\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\aa2d766b79264412c1842174db8ba3d4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\59a79beb8e961081956611a36cfde451\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:12:22-78
+application
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:14:5-33:19
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e807e5b0707e0b889f240d287491c121\jetified-dexter-6.0.1\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e807e5b0707e0b889f240d287491c121\jetified-dexter-6.0.1\AndroidManifest.xml:26:5-30:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\1d90cd8f4900107f057abb787f3d5130\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\1d90cd8f4900107f057abb787f3d5130\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\1a64615e3aee6007444711718719d0cf\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\1a64615e3aee6007444711718719d0cf\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\c0351a1d9034bf251cf033c0ee0c969a\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\c0351a1d9034bf251cf033c0ee0c969a\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6d8b2bae5849f16ef4cabde6b8ec9476\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6d8b2bae5849f16ef4cabde6b8ec9476\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6808cd6878c9414b0acc7fe15a672165\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6808cd6878c9414b0acc7fe15a672165\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e87f840931a6a9bebc0321c72fc441a7\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e87f840931a6a9bebc0321c72fc441a7\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\bc13f0acd75a988cccadd5bbe939939f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\bc13f0acd75a988cccadd5bbe939939f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6c0044a99f91be826ffee75cdd447424\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6c0044a99f91be826ffee75cdd447424\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\cacf7ff0fa88ad6204736ae1f1598ba0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\cacf7ff0fa88ad6204736ae1f1598ba0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6c0044a99f91be826ffee75cdd447424\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:21:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:15:9-44
+activity#com.weatherapp.activities.MainActivity
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:screenOrientation
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:24:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\dd737f1cfebb28cb291ab8bad2c1aae2\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\dd737f1cfebb28cb291ab8bad2c1aae2\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e807e5b0707e0b889f240d287491c121\jetified-dexter-6.0.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:6.0.1] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e807e5b0707e0b889f240d287491c121\jetified-dexter-6.0.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\1d90cd8f4900107f057abb787f3d5130\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\1d90cd8f4900107f057abb787f3d5130\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\a0df8aa46d15bef6d531d21ede0e97e2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\a0df8aa46d15bef6d531d21ede0e97e2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\1a64615e3aee6007444711718719d0cf\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\1a64615e3aee6007444711718719d0cf\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\c0351a1d9034bf251cf033c0ee0c969a\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\c0351a1d9034bf251cf033c0ee0c969a\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\622d845d2c4d4a2177eea5c64dfb4ad8\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\622d845d2c4d4a2177eea5c64dfb4ad8\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6d8b2bae5849f16ef4cabde6b8ec9476\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6d8b2bae5849f16ef4cabde6b8ec9476\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6808cd6878c9414b0acc7fe15a672165\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6808cd6878c9414b0acc7fe15a672165\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e87f840931a6a9bebc0321c72fc441a7\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e87f840931a6a9bebc0321c72fc441a7\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\bc13f0acd75a988cccadd5bbe939939f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\bc13f0acd75a988cccadd5bbe939939f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\17de1d49271e5a3dbca270f3642625b4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\17de1d49271e5a3dbca270f3642625b4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\3812e7a40e8f4baf632e5f61e2cfdb93\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\3812e7a40e8f4baf632e5f61e2cfdb93\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\b64750d96a60914908b1220e2e80e730\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\b64750d96a60914908b1220e2e80e730\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\8f9fb315de656c3318595e7f70e6a9f6\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\8f9fb315de656c3318595e7f70e6a9f6\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e645a93e4ecc83c75e07d37522a5f797\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e645a93e4ecc83c75e07d37522a5f797\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\55abb7e948258522d575f8dc4ee0df62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\55abb7e948258522d575f8dc4ee0df62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\4f2ba545a4331b28b7adb2460751a1ff\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\4f2ba545a4331b28b7adb2460751a1ff\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\9ab9beff53653ff1e9fe334b4d5f1395\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\9ab9beff53653ff1e9fe334b4d5f1395\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\7664f82643b3edd3b22586071f92de72\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\7664f82643b3edd3b22586071f92de72\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\c66e627a02f725e6741f0c47d508a4f0\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\c66e627a02f725e6741f0c47d508a4f0\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\8a26777318ad3531fbb6dbfaf1355b47\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\8a26777318ad3531fbb6dbfaf1355b47\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\3cbc7404a6cb10db2956366906999e11\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\3cbc7404a6cb10db2956366906999e11\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6c0044a99f91be826ffee75cdd447424\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6c0044a99f91be826ffee75cdd447424\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\71d05889cd3319b59e0a4fc26ad09558\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\71d05889cd3319b59e0a4fc26ad09558\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\eaa4184ef95fb51bf07a251cf4549871\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\eaa4184ef95fb51bf07a251cf4549871\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\cacf7ff0fa88ad6204736ae1f1598ba0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\cacf7ff0fa88ad6204736ae1f1598ba0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\760e4cbfa2910973dbbd12ef4c78c934\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\760e4cbfa2910973dbbd12ef4c78c934\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\afd58b29fb02ca0ff9cd0ea34dcf65bf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\afd58b29fb02ca0ff9cd0ea34dcf65bf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\fe349577d488e7135f225a9eb8ce8774\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\fe349577d488e7135f225a9eb8ce8774\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\29d820506409cfa38b75a3337969ce53\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\29d820506409cfa38b75a3337969ce53\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\460fbb6ec86ae4ad508e850c617f8481\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\460fbb6ec86ae4ad508e850c617f8481\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\aa2d766b79264412c1842174db8ba3d4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\aa2d766b79264412c1842174db8ba3d4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\59a79beb8e961081956611a36cfde451\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\59a79beb8e961081956611a36cfde451\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elbad\OneDrive\Desktop\WeatherApp_v8\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:6.0.1] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e807e5b0707e0b889f240d287491c121\jetified-dexter-6.0.1\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:6.0.1] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e807e5b0707e0b889f240d287491c121\jetified-dexter-6.0.1\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:6.0.1] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\e807e5b0707e0b889f240d287491c121\jetified-dexter-6.0.1\AndroidManifest.xml:28:13-60
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6d8b2bae5849f16ef4cabde6b8ec9476\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6d8b2bae5849f16ef4cabde6b8ec9476\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6d8b2bae5849f16ef4cabde6b8ec9476\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\6d8b2bae5849f16ef4cabde6b8ec9476\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\bc13f0acd75a988cccadd5bbe939939f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\bc13f0acd75a988cccadd5bbe939939f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\elbad\.gradle\caches\transforms-2\files-2.1\bc13f0acd75a988cccadd5bbe939939f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

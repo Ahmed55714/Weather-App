@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunny.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\sunny.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_refresh_24dp.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_refresh_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_snowflake.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\snowflake.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_humidity.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\humidity.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_storm.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\storm.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_refresh_24dp.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_refresh_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evening.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\evening.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunset.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\sunset.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_custom_progress.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\layout\\dialog_custom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rain.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\rain.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunrise.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\sunrise.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temperature.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wind.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\wind.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cloud.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\cloud.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_morning.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\morning.xml"
+    },
+    {
+        "merged": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close.xml.flat",
+        "source": "C:\\Users\\elbad\\OneDrive\\Desktop\\WeatherApp_v8\\app\\src\\main\\res\\drawable\\close.xml"
+    }
+]
