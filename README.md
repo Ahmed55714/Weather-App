@@ -1,22 +1,10 @@
 # Weather-App
-new android project
+new Android project by Kotlin
 
 # Android Kotlin Weather App
 
 ![App Screenshot](app_screenshot.png)
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Getting Started](#getting-started)
-5. [API Integration](#api-integration)
-6. [Change UI Based on Weather](#change-ui-based-on-weather)
-7. [Settings and Preferences](#settings-and-preferences)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Repository Link](#repository-link)
 
 ## Introduction
 
@@ -34,15 +22,7 @@ The Android Kotlin Weather App offers the following features:
 
 - **Settings and Preferences**: Save user preferences using SharedPreferences for a personalized experience.
 
-## Installation
-
-To install the Android Kotlin Weather App, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Ahmed55714/Weather-App.git
-
+## ScreenShot
 
 
 ![wheather app](https://github.com/Ahmed55714/Weather-App/assets/76036752/920434b6-24bb-40c1-ab1d-889517f39526)
