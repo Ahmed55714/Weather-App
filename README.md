@@ -3,7 +3,6 @@ new Android project by Kotlin
 
 # Android Kotlin Weather App
 
-![App Screenshot](app_screenshot.png)
 
 
 ## Introduction
